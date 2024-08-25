@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on big projects soon
 - 📫 How to reach me ...
 - 😄 Pronouns: he or him,
-- ⚡ Fun fact: I'll love rap too 
+- ⚡ Fun fact: I love rap too 
 
 <!---
 NEBCOCO/NEBCOCO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
