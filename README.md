@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on big projects soon
-- 📫 How to reach me ...
+- 📫 How to reach me ... ellucollins17@gmail.com
 - 😄 Pronouns: he or him,
 - ⚡ Fun fact: I love rap too 
 
